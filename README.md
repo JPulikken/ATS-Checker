@@ -305,5 +305,4 @@ MIT License — feel free to use, modify, and deploy.
 ---
 
 **Built with ❤️ using React + Express + NLP**
-#   A T S - C h e c k e r  
- 
+#
